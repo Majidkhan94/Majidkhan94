@@ -50,7 +50,7 @@ I'm a Full-Stack Developer passionate about ASP.NET Core, React, Node.js, SQL, a
 ## 📱 Connect with Me
 
 - 📧 Email: Majidkhan.dev94@gmail.com
-- 🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/majidkhan94/)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/majidkhan94/](https://www.linkedin.com/in/majidkhan94/)
 - 🌐 Portfolio: [majidkhan94.github.io](https://majidkhan94.github.io)
 
 ## 📊 GitHub Stats
